@@ -1,9 +1,12 @@
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=07F700&background=000000&width=435&lines=Hello+World!" alt="Typing SVG" />
+<br>
+
+
 -# My GitHub Profile
 
 Hello, I'm [ayoub], a computer science student with a passion for coding and open source projects.
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=07F700&background=000000&width=435&lines=Hello+World!" alt="Typing SVG" />
-<br>
 
 
 ### At the moment I work mainly with these Spells and Charms 🔮
