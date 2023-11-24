@@ -2,17 +2,33 @@
 
 Hello, I'm [ayoub], a computer science student with a passion for coding and open source projects.
 
-## Skills
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=07F700&background=000000&width=435&lines=Hello+World!" alt="Typing SVG" />
+<br>
 
-- Programming Languages: C, Python
-- Version Control: Git
-- Build Systems: Makefile
 
-## About Me
+### At the moment I work mainly with these Spells and Charms 🔮
+<img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Cpp" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GPT" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" style="padding-right:10px;" />
+<br>
+<br>
 
-I am a dedicated computer science student currently pursuing my degree. My programming journey has led me to become proficient in C and Python, and I have gained valuable experience in version control using Git. I am also familiar with using Makefile for building and managing projects.
-
- 
+### Quests on my journey 📜
+<table>
+    <thead>
+        <tr>
+            <th colspan="3"> ⚔️ 🐉 </th> 
+        </tr>
+    </thead>
+    <tbody>
+         <tr>
+            <td><a href="https://github.com/xhelp00/Libft">Libft</td>
+            <td> ✅ </td>
+            <td><a href="https://github.com/Mkfayoub/42-libft"><img src="https://github.com/Mkfayoub/42-libft/blob/main/libft-bonus.png" alt="libft" width="75"/></a></td>
+        </tr>
+</table>
 
 ## Contact
 
