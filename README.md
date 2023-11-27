@@ -27,9 +27,9 @@ Hello, I'm [ayoub], a computer science student with a passion for coding and ope
     </thead>
     <tbody>
          <tr>
-            <td><a href="https://github.com/Mkfayoub/42-Libft">Libft</td>
+            <td><a href="https://github.com/mfk-ayoub/42-Libft">Libft</td>
             <td> ✅ </td>
-            <td><a href="https://github.com/Mkfayoub/42-libft"><img src="https://github.com/Mkfayoub/42-libft/blob/main/libft-bonus.png" alt="libft" width="75"/></a></td>
+            <td><a href="https://github.com/mfk-ayoub/42-libft"><img src="https://github.com/mfk-ayoub/42-libft/blob/main/libft-bonus.png" alt="libft" width="75"/></a></td>
         </tr>
 </table>
 
