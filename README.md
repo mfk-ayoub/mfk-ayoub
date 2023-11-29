@@ -35,7 +35,6 @@ Hello, I'm ayoub , a computer science student with a passion for coding and open
         </tr>
 </table>
 
-## Contact
 
 # Contact
 
