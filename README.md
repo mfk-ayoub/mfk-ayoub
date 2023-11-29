@@ -4,9 +4,9 @@
 
 
 # My GitHub Profile
-
-Hello, I'm ayoub , a computer science student with a passion for coding and open source projects.
-
+<p align="left">
+ -Hello, I'm ayoub , a computer science student with a passion for coding and open source projects.
+</p>
 <img align="right" alt="Coding" width="400" src="https://github.com/mfk-ayoub/mfk-ayoub/blob/main/giphy.gif">
 
 
