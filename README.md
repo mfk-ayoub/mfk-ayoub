@@ -27,12 +27,12 @@ Hello, I'm [ayoub], a computer science student with a passion for coding and ope
     </thead>
     <tbody>
          <tr>
-            <td><a href="https://github.com/mfk-ayoub/42-Libft">Libft</td>
+            <td><a href="https://github.com/mfk-ayoub/42-Libft">ft_Libft</td>
             <td> ✅ </td>
             <td><a href="https://github.com/mfk-ayoub/42-libft"><img src="https://github.com/mfk-ayoub/42-libft/blob/main/libft-bonus.png" alt="libft" width="75"/></a></td>
         </tr>
          <tr>
-            <td><a href="https://github.com/mfk-ayoub/ft_printf-42">Libft</td>
+            <td><a href="https://github.com/mfk-ayoub/ft_printf-42">ft_printf</td>
             <td> ✅ </td>
             <td><a href="https://github.com/mfk-ayoub/ft-printf-42"><img src="https://github.com/mfk-ayoub/ft_printf-42/blob/main/ft_printfe.png" alt="libft" width="75"/></a></td>
         </tr>
