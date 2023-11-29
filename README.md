@@ -3,7 +3,7 @@
 <br>
 
 
--# My GitHub Profile
+# My GitHub Profile
 
 Hello, I'm ayoub , a computer science student with a passion for coding and open source projects.
 
