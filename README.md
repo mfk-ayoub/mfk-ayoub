@@ -1,13 +1,13 @@
-
+# My GitHub Profile
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=07F700&background=000000&width=435&lines=Hello+World!" alt="Typing SVG" />
 <br>
+<img align="center" alt="Coding" width="400" src="https://github.com/mfk-ayoub/mfk-ayoub/blob/main/giphy.gif">
 
 
-# My GitHub Profile
 <p align="left">
  -Hello, I'm ayoub , a computer science student with a passion for coding and open source projects.
 </p>
-<img align="right" alt="Coding" width="300" src="https://github.com/mfk-ayoub/mfk-ayoub/blob/main/giphy.gif">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
