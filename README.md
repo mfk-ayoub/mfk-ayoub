@@ -7,7 +7,7 @@
 
 Hello, I'm ayoub , a computer science student with a passion for coding and open source projects.
 
-
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/50NA7vr.gif">
 
 
 <h3 align="left">Languages and Tools:</h3>
