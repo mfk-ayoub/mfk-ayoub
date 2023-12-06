@@ -35,6 +35,11 @@
             <td> ✅ </td>
             <td><a href="https://github.com/mfk-ayoub/ft-printf-42"><img src="https://github.com/mfk-ayoub/ft_printf-42/blob/main/ft_printfe.png" alt="libft" width="75"/></a></td>
         </tr>
+         <tr>
+            <td><a href="https://github.com/mfk-ayoub/get_next_line">get_next_line</td>
+            <td> ✅ </td>
+            <td><a href="https://github.com/mfk-ayoub/get_next_line"><img src="https://github.com/mfk-ayoub/get_next_line/blob/main/get_next_linem.png" alt="get_next_line" width="75"/></a></td>
+        </tr>
 </table>
 
 
