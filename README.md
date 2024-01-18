@@ -5,9 +5,6 @@
  -Hello, I'm ayoub , a computer science student with a passion for coding and open source projects.
 </p>
 
-<br>
-<img align="center" alt="Coding" width="400" src="https://github.com/mfk-ayoub/mfk-ayoub/blob/main/giphy.gif">
-
 
 
 
@@ -17,30 +14,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mfk-ayoub&show_icons=true&locale=en" alt="mfk-ayoub" /></p>
 
-### Quests on my journey 📜
-<table>
-    <thead>
-        <tr>
-            <th colspan="3"> ⚔️ 🐉 </th> 
-        </tr>
-    </thead>
-    <tbody>
-         <tr>
-            <td><a href="https://github.com/mfk-ayoub/42-Libft">ft_Libft</td>
-            <td> ✅ </td>
-            <td><a href="https://github.com/mfk-ayoub/42-libft"><img src="https://github.com/mfk-ayoub/42-libft/blob/main/libft-bonus.png" alt="libft" width="75"/></a></td>
-        </tr>
-         <tr>
-            <td><a href="https://github.com/mfk-ayoub/ft_printf-42">ft_printf</td>
-            <td> ✅ </td>
-            <td><a href="https://github.com/mfk-ayoub/ft-printf-42"><img src="https://github.com/mfk-ayoub/ft_printf-42/blob/main/ft_printfe.png" alt="libft" width="75"/></a></td>
-        </tr>
-         <tr>
-            <td><a href="https://github.com/mfk-ayoub/get_next_line">get_next_line</td>
-            <td> ✅ </td>
-            <td><a href="https://github.com/mfk-ayoub/get_next_line"><img src="https://github.com/mfk-ayoub/get_next_line/blob/main/get_next_linem.png" alt="get_next_line" width="75"/></a></td>
-        </tr>
-</table>
+
 
 
 # Contact
