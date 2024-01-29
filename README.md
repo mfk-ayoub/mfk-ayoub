@@ -1,7 +1,7 @@
 # My GitHub Profile
 
 <p align="left">
- -Hello, I'm ayoub , a computer science student with a passion for coding and open source projects.
+ Hello, I'm ayoub , a computer science student with a passion for coding and open source projects.
 </p>
 
 
