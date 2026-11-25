@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ayoub El Mouafik 👋</h1>
+<p align="center"><b>Aspiring AI Engineer · Backend Developer</b><br/>1337 student (42 Network, UM6P) .Morocco</p>
 
-<!--
-**mfk-ayoub/mfk-ayoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📬 Contact
 
-Here are some ideas to get you started:
+<p>
+  <a href="mailto:elmouafikayoub23@gmail.com"><img src="https://img.shields.io/badge/Email-elmouafikayoub23@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/ayoub-elmouafik"><img src="https://img.shields.io/badge/LinkedIn-ayoub--elmouafik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://ayoubelmouafik.me"><img src="https://img.shields.io/badge/Portfolio-ayoubelmouafik.me-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <img src="https://komarev.com/ghpvc/?username=mfk-ayoub&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About
+
+- 🎓 Student at **1337 (42 Network, UM6P)**.
+- 🧠 Learning: LLMs, RAG systems and the math behind machine learning.
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,docker,c,cpp&theme=dark" alt="Tech stack"/>
+</p>
+
+**AI / data:** LangChain · LangGraph · Qdrant  · RAG
+
+## 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,cloudflare&theme=dark" alt="Tools"/>
+</p>
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mfk-ayoub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfk-ayoub&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
