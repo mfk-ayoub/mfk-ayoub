@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ayoub El Mouafik 👋</h1>
-<p align="center"><b>Aspiring AI Engineer · Backend Developer</b><br/>1337 student (42 Network, UM6P) .Morocco</p>
+<p align="center"><b>Aspiring AI Engineer · Backend Developer</b><br/>1337 student (42 Network, UM6P)</p>
 
 ## 📬 Contact
 
@@ -18,15 +18,15 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,docker,c,cpp&theme=dark" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,docker,c,cpp,js,html,css,nodejs,ts&theme=dark" alt="Tech stack"/>
 </p>
 
-**AI / data:** LangChain · LangGraph · Qdrant  · RAG
+**AI / data:** LangChain · LangGraph · Qdrant · RAG
 
 ## 🧰 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,cloudflare&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,cloudflare,cursor,claude,openai&theme=dark" alt="Tools"/>
 </p>
 
 ## 📊 GitHub Stats
